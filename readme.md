@@ -2,7 +2,7 @@
 
 This repository hosts two anonymized network datasets of post-PhD career transitions and trajectories in computing research. We analyzed this data to study the evolution of computing research as a profession on the levels of individuals (people with PhDs in computer science), organizations (companies, schools, agencies, etc), and sectors (one of academia, industry, or government). 
 
-## Repository contents
+## Data directory contents
 
 The ```organizations.csv``` file maps organization IDs to their respective sectors.
 
@@ -13,7 +13,7 @@ Each edge encodes a source organization, a destination organization, and the num
 The ```bipartite.csv``` network is a heterogeneous bipartite graph connecting people to organizations. 
 Per edge, the first node is an individual ID and the second node an organization ID. 
 An individual is connected to an organization if (1) they did their PhD there or (2) they worked there at some point in their career. 
-The ```EdgeType``` attribute encodes this connection.
+The ```EdgeType``` attribute encodes whether the individual in question did their PhD or worked at the connected organization.
 
 # Citation
 
