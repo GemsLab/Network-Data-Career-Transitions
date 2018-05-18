@@ -1,6 +1,6 @@
 # About
 
-This repository hosts two anonymized network datasets of post-PhD career transitions and trajectories in computing research. We analyzed this data to study the evolution of computing research as a profession on the levels of individuals (people with PhDs in computer science), organizations (companies, schools, agencies, etc), and sectors (one of academia, industry, or government). 
+This repository hosts two anonymized network datasets of post-PhD career transitions and trajectories in computing research. We analyzed this data in a [paper](https://arxiv.org/abs/1805.06534) studying the evolution of computing research as a profession on the levels of individuals (people with PhDs in computer science), organizations (companies, schools, agencies, etc), and sectors (one of academia, industry, or government). 
 
 # Data directory contents
 
