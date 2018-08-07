@@ -17,8 +17,8 @@ The ```EdgeType``` attribute encodes whether the individual in question did thei
 
 # Citation
 
-If you use this dataset, please cite:
+If you use this dataset, please cite (Bibtex coming soon):
 
-> Tara Safavi, Maryam Davoodi, Danai Koutra. _Career Transitions and Trajectories: A Case Study in Computing_. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (_to appear_), August 2018.
+> Tara Safavi, Maryam Davoodi, Danai Koutra. _Career Transitions and Trajectories: A Case Study in Computing_. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, August 2018.
 
 
